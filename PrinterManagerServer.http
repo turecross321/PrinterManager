@@ -1,0 +1,6 @@
+@PrinterManagerServer_HostAddress = http://localhost:5108
+
+GET {{PrinterManagerServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
